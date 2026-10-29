@@ -1,0 +1,12 @@
+django
+django-cors-headers
+djangorestframework
+djangorestframework-simplejwt
+joblib
+numpy
+openpyxl
+pandas
+pymysql
+python-dotenv
+reportlab
+scikit-learn
